@@ -1,4 +1,4 @@
-# Projeto Iniciante — Comissão de Infraestrutura do IntroComp
+# Projeto Iniciante — Comissão de Infraestrutura
 
 Bem-vindo(a) à comissão! Este projeto é a sua primeira tarefa: você vai construir um site do zero usando só **HTML, CSS e JavaScript**. Não precisa de nada instalado além de um editor de código e um navegador.
 
