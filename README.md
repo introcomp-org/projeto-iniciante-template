@@ -34,7 +34,7 @@ O tema é **livre**: escolha algo de que você goste. Prefira um site simples e 
 | 1 | **Menu** | Navegação entre páginas. Pelo menos **3 páginas** (ex.: Início, Sobre, Contato), e o menu aparece em todas elas, com links funcionando. |
 | 2 | **3 elementos dinâmicos** | Pelo menos 3 elementos diferentes que respondem a um evento. Exemplos: botão que troca o tema claro/escuro, menu hambúrguer que abre e fecha, contador, galeria que troca a imagem ao clicar, acordeão (FAQ), abas, quiz, relógio, botão "voltar ao topo". |
 | 3 | **Formulário** | Preencher, enviar e **exibir**. Ao enviar, a página mostra na tela o que foi preenchido (ex.: "Obrigado, Maria! Recebemos sua mensagem: ..."), sem recarregar. Valide ao menos um campo (ex.: campo vazio ou e-mail inválido). |
-| 4 | **Imagens** | Pelo menos 3 imagens, todas com o atributo `alt`. Use imagens livres (veja a seção de materiais) e indique a fonte no README. |
+| 4 | **Imagens** | Pelo menos 3 imagens, todas com o atributo `alt`. Use imagens livres (veja a seção de materiais). |
 | 5 | **Responsivo** | O site precisa funcionar bem no celular e no computador. Use a tag `viewport`, Flexbox ou Grid, e pelo menos uma `@media query`. |
 
 ### Regras
@@ -94,7 +94,7 @@ Siga esta ordem. Faça os exercícios, não só assista aos vídeos.
 - **MDN:** consulte `addEventListener`, `querySelector` e `classList` quando precisar.
 
 ### Imagens livres
-- Unsplash (https://unsplash.com), Pexels (https://pexels.com) e Pixabay (https://pixabay.com). Cite a fonte no README.
+- Unsplash (https://unsplash.com), Pexels (https://pexels.com) e Pixabay (https://pixabay.com).
 
 ### Dicas para não travar
 - Teste o site no celular (F12 no navegador → ícone de dispositivo móvel).
@@ -112,7 +112,6 @@ Siga esta ordem. Faça os exercícios, não só assista aos vídeos.
    - Nome do projeto e tema
    - Como abrir/rodar o site
    - Quais são os 3 elementos dinâmicos
-   - Fonte das imagens
    - O que foi mais difícil e o que você aprendeu
 4. Envie o **link do repositório** no grupo até a data combinada.
 
@@ -132,9 +131,6 @@ Abra o arquivo `index.html` no navegador (ou use a extensão Live Server do VS C
 1. ...
 2. ...
 3. ...
-
-## Imagens
-Fonte das imagens: ...
 
 ## Aprendizados
 O que foi mais difícil e o que aprendi.
