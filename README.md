@@ -55,8 +55,6 @@ O tema é **livre**: escolha algo de que você goste. Prefira um site simples e 
 
 ## 2. Cronograma sugerido
 
-É só um ritmo sugerido. Ninguém vai cobrar andamento durante o projeto, mas, se travar, **chame a comissão no grupo**.
-
 ### Semana 1 — HTML e CSS
 - Instalar o ambiente (VS Code + extensão Live Server) e criar o seu repositório a partir deste modelo
 - Estrutura das páginas, menu, imagens, estilo
